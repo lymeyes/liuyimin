@@ -25,7 +25,9 @@ As a quality assurance manager, I have many years of experience in consumer elec
   ★★★☆☆ English
 
 ## WORK EXPERIENCE
-  * 产品经理 at 上海鼎登信息科技有限公司, 上海市
+
+  * 产品经理 at 上海鼎登信息科技有限公司
+  
     
     工作内容：
     
@@ -34,8 +36,10 @@ As a quality assurance manager, I have many years of experience in consumer elec
     2.负责为客户提供AI人工智能系统的产品方案；
     
     3.负责对客户的技术支持和培训。
+    
 
-  * 质量经理 at 南京格威利华信息科技有限公司, 南京
+  * 质量经理 at 南京格威利华信息科技有限公司
+  
     
     工作内容：
     
@@ -50,8 +54,10 @@ As a quality assurance manager, I have many years of experience in consumer elec
     2.故事机系统方案（Kiwi）
     
     3.Zigbee+GPS太阳能及充电桩通讯解决方案（GV30000）
+    
 
-  * 质量经理 at 泰鼎多媒体技术（上海）有限公司, 上海
+  * 质量经理 at 泰鼎多媒体技术（上海）有限公司
+  
     
     工作内容：
     
@@ -61,7 +67,8 @@ As a quality assurance manager, I have many years of experience in consumer elec
     
     3.PCTV处理器芯片测试（2004.5-2008.10）系统驱动程序测试；FPGA验证测试；Firmware测试；认证测试（USB-IF、WHQL等）；
     
-    4.作为内部与客户的技术联络窗口5.客户支持Toshiba、SONY、Dell、天敏、Twinhan、Avermedia、3NOD、Hauppauge等
+    4.作为内部与客户的技术联络窗口5.客户支持Toshiba、SONY、Dell、天敏、Twinhan、Avermedia、3NOD、Hauppauge等;
+    
     
     公司产品：
     
