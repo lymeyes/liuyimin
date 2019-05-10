@@ -8,9 +8,13 @@ As a quality assurance manager, I have many years of experience in consumer elec
 
 # PERSONAL INFORMATION
   Address: No. 620 Zhongshan West Road, Shanghai, 201318
+  
   Date of birth: 1976-04-23 Jilin
+  
   Nationality: China
-  Driving License: 
+  
+  Driving License: C1
+  
   Hobbies: 摄影
 
 # SOCIAL PROFILES
