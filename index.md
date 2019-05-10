@@ -26,13 +26,35 @@ As a quality assurance manager, I have many years of experience in consumer elec
 
 ## WORK EXPERIENCE
   * 产品经理 at 上海鼎登信息科技有限公司, 上海市
-    工作内容：1.负责为客户提供智能制造系统产品的技术解决方案；2.负责为客户提供AI人工智能系统的产品方案；3.负责对客户的技术支持和培训。
+    
+    工作内容：
+    
+    1.负责为客户提供智能制造系统产品的技术解决方案；
+    
+    2.负责为客户提供AI人工智能系统的产品方案；
+    
+    3.负责对客户的技术支持和培训。
 
   * 质量经理 at 南京格威利华信息科技有限公司, 南京
-    工作内容：1.负责保证产品的质量，完成测试文档及测试用例的编写； 2.负责产品的测试工作； 公司产品：1.Wi-Fi智能音箱方案（GV2000）2.故事机系统方案（Kiwi）3.Zigbee+GPS太阳能及充电桩通讯解决方案（GV30000）
+    
+    工作内容：
+    
+    1.负责保证产品的质量，完成测试文档及测试用例的编写； 
+    
+    2.负责产品的测试工作； 
+    
+    公司产品：
+    
+    1.Wi-Fi智能音箱方案（GV2000）
+    
+    2.故事机系统方案（Kiwi）
+    
+    3.Zigbee+GPS太阳能及充电桩通讯解决方案（GV30000）
 
   * 质量经理 at 泰鼎多媒体技术（上海）有限公司, 上海
+    
     工作内容：
+    
     1.图形处理芯片测试（2002.8-2004.5）系统驱动程序测试；图形芯片BIOS测试；游戏测试；
     
     2.数字电视及解调器芯片测试系统测试；音视频标准测试；
@@ -42,6 +64,7 @@ As a quality assurance manager, I have many years of experience in consumer elec
     4.作为内部与客户的技术联络窗口5.客户支持Toshiba、SONY、Dell、天敏、Twinhan、Avermedia、3NOD、Hauppauge等
     
     公司产品：
+    
     1.电脑图形处理芯片（Graphics Chipsets）CyberBladeBladeXPBlade3D (9880)XP4XP8
     
     2.数字电视视频处理器（Video Processor）SVP （PX/CX/LX）HiDTV (EX/LX/Pro)
@@ -55,6 +78,7 @@ As a quality assurance manager, I have many years of experience in consumer elec
 
 ## EDUCATION
   * September 1996 – July 2000
+    
     成都理工大学, 成都 本科
 
     专业：测量及仪器专业成都理工大学（Chengdu University of Technology）：
