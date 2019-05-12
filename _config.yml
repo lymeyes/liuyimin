@@ -6,7 +6,7 @@ logo_url:           https://avatars1.githubusercontent.com/u/3285223?v=4 # Get i
 
 # Site Settings
 # url:                https://heiswayi.github.io # main url
-url:                https://lymeyes.github.io # main url
+url:                https://liuyimin.rocwing.cn # main url
 baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
