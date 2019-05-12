@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Liu Yimin
 
 ## Quality Assurance Manager
 
