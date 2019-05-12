@@ -2,122 +2,97 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Liu Yimin
 
-[Link to another page](./another-page.html).
+## Quality Assurance Manager
 
-There should be whitespace between paragraphs.
+Shanghai
+13611886072
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As a quality assurance manager, I have many years of experience in consumer electronics industry. Areas of expertise include PC, graphics and image processing, digital television, and the Internet of Things. I have strong ability to debug and analyze problem. Also I have excellent communication skills with team members.
 
-# Header 1
+## PERSONAL INFORMATION
+  Address: No. 620 Zhongshan West Road, Shanghai, 201318
+  
+  Date of birth: 1976-04-23 Jilin
+  
+  Nationality: China
+  
+  Driving License: C1
+  
+  Hobbies: 摄影
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## SOCIAL PROFILES
+  * linkedin: https://www.linkedin.com/in/liuyimin/
 
-## Header 2
+## LANGUAGES
+  ★★★☆☆ English
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## WORK EXPERIENCE
 
-### Header 3
+  * 产品经理 at 上海鼎登信息科技有限公司
+  
+    
+    工作内容：
+    
+    1.负责为客户提供智能制造系统产品的技术解决方案；
+    
+    2.负责为客户提供AI人工智能系统的产品方案；
+    
+    3.负责对客户的技术支持和培训。
+    
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+  * 质量经理 at 南京格威利华信息科技有限公司
+  
+    
+    工作内容：
+    
+    1.负责保证产品的质量，完成测试文档及测试用例的编写；
+    
+    2.负责产品的测试工作；
+    
+    公司产品：
+    
+    1.Wi-Fi智能音箱方案（GV2000）
+    
+    2.故事机系统方案（Kiwi）
+    
+    3.Zigbee+GPS太阳能及充电桩通讯解决方案（GV30000）
+    
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+  * 质量经理 at 泰鼎多媒体技术（上海）有限公司
+  
+    
+    工作内容：
+    
+    1.图形处理芯片测试（2002.8-2004.5）系统驱动程序测试；图形芯片BIOS测试；游戏测试；
+    
+    2.数字电视及解调器芯片测试系统测试；音视频标准测试；
+    
+    3.PCTV处理器芯片测试（2004.5-2008.10）系统驱动程序测试；FPGA验证测试；Firmware测试；认证测试（USB-IF、WHQL等）；
+    
+    4.作为内部与客户的技术联络窗口5.客户支持Toshiba、SONY、Dell、天敏、Twinhan、Avermedia、3NOD、Hauppauge等;
+    
+    
+    公司产品：
+    
+    1.电脑图形处理芯片（Graphics Chipsets）CyberBladeBladeXPBlade3D (9880)XP4XP8
+    
+    2.数字电视视频处理器（Video Processor）SVP （PX/CX/LX）HiDTV (EX/LX/Pro)
+    
+    3.数字电视解调器（TDM）TDM5560/70
+    
+    4.PCTV芯片(TV Master)TM5600/6000 （Analog TV+USB2.0）TM6010 （Analog/Digital TV+USB2.0）TM6200 (Analog/Digital TV+PCIE)
+    
+    Trident Microsystems，Inc：It's a leading force in the digital home entertainment market, delivering innovative semiconductor solutions for digital televisions and set-top-boxes - at the heart of today's digital home. As a long time pioneer in consumer electronics, Trident is uniquely positioned to capitalize on the transformation in today's living room - where consumers can access any content, at any time ,on any of their consumer electronics devices, and enjoy their entertainment with very high quality and a completely immersive experience - no matter the source.
 
 
-### Definition lists can be used with HTML syntax.
+## EDUCATION
+  * September 1996 – July 2000
+    
+    成都理工大学, 成都 本科
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+    专业：测量及仪器专业成都理工大学（Chengdu University of Technology）：
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+由四川省人民政府、成都市人民政府、国土资源部共建，入选国家“双一流”，世界一流学科建设高校 ，国家“中西部高校基础能力建设工程”、“卓越工程师教育培养计划”、“国家建设高水平大学公派研究生项目”，为中国地球科学高层次人才培养与科学研究基地之一，是以地质、能源、资源科学、核技术、环境科学为优势，以化工、材料等学科专业为特色的重点大学。
 
-```
-The final element.
-```
