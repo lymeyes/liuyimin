@@ -1,44 +1,76 @@
-<!DOCTYPE HTML>
-<!--
-	Alpha by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-			<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.scrollgress.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-desktop.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
-	</head>
-	{% if page.url == "/index.html" %}
-		<!-- Banner -->
-		<body class="landing">
-			<section id="banner">
-				<h2>Alpha</h2>
-				<p>Another fine responsive site template freebie by HTML5 UP.</p>
-				<ul class="actions">
-					<li><a href="#" class="button special">Sign Up</a></li>
-					<li><a href="#" class="button">Learn More</a></li>
-				</ul>
-			</section>
-	{% else %}
-		<body>
-			<section id="banner"></section>
-	{% endif %}
-	{% include nav.html %}
-	<!-- Main -->
-	<section id="main" class="container">
+<!-- TODO this file has become a mess, refactor it -->
+
+{% if page.bigimg or page.title %}
+
+{% if page.bigimg %}
+  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
+    {% for bigimg in page.bigimg %}
+	  {% assign imgnum = forloop.index %}
+	  {% for imginfo in bigimg %}
+	    {% if imginfo[0] %}
+		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
+		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+		{% else %}
+		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
+		{% endif %}
+	  {% endfor %}
+    {% endfor %}
+  ></div>
+{% endif %}
+
+<header class="header-section {% if page.bigimg %}has-img{% endif %}">
+{% if page.bigimg %}
+<div class="big-img intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="{{ include.type }}-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+		  {% if page.subtitle %}
+		    {% if include.type == "page" %}
+            <hr class="small">
+            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+			{% else %}
+			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			{% endif %}
+		  {% endif %}
+		  
+		  {% if include.type == "post" %}
+		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class='img-desc'></span>
+</div>
+{% endif %}
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="{{ include.type }}-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+		  {% if page.subtitle %}
+		    {% if include.type == "page" %}
+            <hr class="small">
+            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+			{% else %}
+			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			{% endif %}
+		  {% endif %}
+		  
+		  {% if include.type == "post" %}
+		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+{% else %}
+<div class="intro-header"></div>
+{% endif %}
