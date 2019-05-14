@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# Liu Yimin
 
-You can use the [editor on GitHub](https://github.com/lymeyes/lymeyes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Quality Assurance Manager
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shanghai
+lymeyes@gmail.com
 
-### Markdown
+As a quality assurance manager, I have many years of experience in consumer electronics industry. Areas of expertise include PC, graphics and image processing, digital television, and the Internet of Things. I have strong ability to debug and analyze problem. Also I have excellent communication skills with team members.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PERSONAL INFORMATION
+  Address: No. 620 Zhongshan West Road, Shanghai, 201318
+  
+  Date of birth: 1976-04-23 Jilin
+  
+  Nationality: China
+  
+  Driving License: C1
+  
+  Hobbies: Photography
 
-```markdown
-Syntax highlighted code block
+## SOCIAL PROFILES
+  * linkedin: https://www.linkedin.com/in/liuyimin/
 
-# Header 1
-## Header 2
-### Header 3
+## LANGUAGES
+  ★★★☆☆ English
 
-- Bulleted
-- List
+## WORK EXPERIENCE
 
-1. Numbered
-2. List
+  * 产品经理 at 上海鼎登信息科技有限公司
+  
+    
+    工作内容：
+    
+    1.负责为客户提供智能制造系统产品的技术解决方案；
+    
+    2.负责为客户提供AI人工智能系统的产品方案；
+    
+    3.负责对客户的技术支持和培训。
+    
 
-**Bold** and _Italic_ and `Code` text
+  * 质量经理 at 南京格威利华信息科技有限公司
+  
+    
+    工作内容：
+    
+    1.负责保证产品的质量，完成测试文档及测试用例的编写； 
+    
+    2.负责产品的测试工作； 
+    
+    公司产品：
+    
+    1.Wi-Fi智能音箱方案（GV2000）
+    
+    2.故事机系统方案（Kiwi）
+    
+    3.Zigbee+GPS太阳能及充电桩通讯解决方案（GV30000）
+    
 
-[Link](url) and ![Image](src)
-```
+  * 质量经理 at 泰鼎多媒体技术（上海）有限公司
+  
+    
+    工作内容：
+    
+    1.图形处理芯片测试（2002.8-2004.5）系统驱动程序测试；图形芯片BIOS测试；游戏测试；
+    
+    2.数字电视及解调器芯片测试系统测试；音视频标准测试；
+    
+    3.PCTV处理器芯片测试（2004.5-2008.10）系统驱动程序测试；FPGA验证测试；Firmware测试；认证测试（USB-IF、WHQL等）；
+    
+    4.作为内部与客户的技术联络窗口5.客户支持Toshiba、SONY、Dell、天敏、Twinhan、Avermedia、3NOD、Hauppauge等;
+    
+    
+    公司产品：
+    
+    1.电脑图形处理芯片（Graphics Chipsets）CyberBladeBladeXPBlade3D (9880)XP4XP8
+    
+    2.数字电视视频处理器（Video Processor）SVP （PX/CX/LX）HiDTV (EX/LX/Pro)
+    
+    3.数字电视解调器（TDM）TDM5560/70
+    
+    4.PCTV芯片(TV Master)TM5600/6000 （Analog TV+USB2.0）TM6010 （Analog/Digital TV+USB2.0）TM6200 (Analog/Digital TV+PCIE)
+    
+    Trident Microsystems，Inc：It's a leading force in the digital home entertainment market, delivering innovative semiconductor solutions for digital televisions and set-top-boxes - at the heart of today's digital home. As a long time pioneer in consumer electronics, Trident is uniquely positioned to capitalize on the transformation in today's living room - where consumers can access any content, at any time ,on any of their consumer electronics devices, and enjoy their entertainment with very high quality and a completely immersive experience - no matter the source.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## EDUCATION
+  * September 1996 – July 2000
+    
+    成都理工大学, 成都 本科
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lymeyes/lymeyes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    专业：测量及仪器专业成都理工大学（Chengdu University of Technology）：
 
-### Support or Contact
+由四川省人民政府、成都市人民政府、国土资源部共建，入选国家“双一流”，世界一流学科建设高校 ，国家“中西部高校基础能力建设工程”、“卓越工程师教育培养计划”、“国家建设高水平大学公派研究生项目”，为中国地球科学高层次人才培养与科学研究基地之一，是以地质、能源、资源科学、核技术、环境科学为优势，以化工、材料等学科专业为特色的重点大学。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
